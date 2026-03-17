@@ -1,7 +1,7 @@
 
 # Kenzo AI - Assistente Virtual Desktop
 
-O Kenzo AI é um assistente virtual inteligente construído em Python, focado em produtividade e automação de tarefas no Windows. Com uma interface moderna e integração em nuvem, o Kenzo não apenas responde a comandos de voz, mas aprende continuamente com as preferências do usuário.
+Kenzo AI é um assistente virtual inteligente desenvolvido em Python, focado em produtividade e automação de tarefas no Windows além de ajudar pessoas com deficiências visuais, e físicas. Com uma interface moderna e integração com a nuvem, o Kenzo não apenas responde a comandos de voz, mas também aprende continuamente com as preferências do usuário.
 
 ##  Principais Funcionalidades
 
